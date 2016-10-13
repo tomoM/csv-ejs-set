@@ -148,3 +148,6 @@ fabric.properties
 # modules.xml
 # .idea/misc.xml 
 # *.ipr
+.idea/modules.xml
+.idea/mp06.iml
+.idea/vcs.xml
